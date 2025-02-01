@@ -33,8 +33,3 @@ h3 {
   color: rgba(251, 0, 255, 0.5);
   border-bottom-color: rgba(239, 57, 255, 0.5);
 }
-
-.btn-secondary,
-.btn-secondary:hover {
-  color: #ff0000;
-}
